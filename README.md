@@ -36,3 +36,4 @@
 <br>
 
 <li>1:1 e 1:N.
+![Diagrama Entidade-Relacionamento](https://user-images.githubusercontent.com/116525199/227068651-c0a797ed-a013-404e-95dd-f0344f29f40c.jpg)
